@@ -1,0 +1,39 @@
+﻿
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Login">
+           
+            
+            <div class="form-group">
+                <label class="control-label">UserName</label>
+                <input id="UserName" name="UserName" class="form-control" required />
+                
+            </div>
+            <div class="form-group">
+                <label  class="control-label">Password</label>
+                <input id="Password" name="Password" class="form-control" required />
+                
+            </div>
+           
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="CreateNewUser">Create New User</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

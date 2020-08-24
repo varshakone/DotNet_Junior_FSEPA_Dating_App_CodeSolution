@@ -1,0 +1,77 @@
+﻿@model Dating.Entities.DateDetails
+
+@{
+    ViewData["Title"] = "SendRequest";
+}
+
+<h1>SendRequest</h1>
+
+<h4>DateDetails</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SendRequest">
+            @if (ViewBag.message != null)
+            {
+                <div class="form-group">
+                    <label class="control-label">ViewBag.message</label>
+                    
+                </div>
+            }
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="RequestSenderName" class="control-label"></label>
+                <input asp-for="RequestSenderName" class="form-control" />
+                <span asp-validation-for="RequestSenderName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RequestReceiverName" class="control-label"></label>
+                <input asp-for="RequestReceiverName" class="form-control" />
+                <span asp-validation-for="RequestReceiverName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateOfRequest" class="control-label"></label>
+                <input asp-for="DateOfRequest" class="form-control" />
+                <span asp-validation-for="DateOfRequest" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RequestStatus" class="control-label"></label>
+                <input asp-for="RequestStatus" class="form-control" />
+                <span asp-validation-for="RequestStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RequestSenderEmail" class="control-label"></label>
+                <input asp-for="RequestSenderEmail" class="form-control" />
+                <span asp-validation-for="RequestSenderEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RequestReceiverEmail" class="control-label"></label>
+                <input asp-for="RequestReceiverEmail" class="form-control" />
+                <span asp-validation-for="RequestReceiverEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Mobile" class="control-label"></label>
+                <input asp-for="Mobile" class="form-control" />
+                <span asp-validation-for="Mobile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RequestMessage" class="control-label"></label>
+                <input asp-for="RequestMessage" class="form-control" />
+                <span asp-validation-for="RequestMessage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Send Request" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

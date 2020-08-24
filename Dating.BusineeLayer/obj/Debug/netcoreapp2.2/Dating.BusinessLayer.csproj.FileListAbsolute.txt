@@ -1,0 +1,28 @@
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.BusinessLayer.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.BusinessLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.BusinessLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.BusineeLayer\obj\Debug\netcoreapp2.2\Dating.BusinessLayer.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.BusineeLayer\obj\Debug\netcoreapp2.2\Dating.BusinessLayer.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.BusineeLayer\obj\Debug\netcoreapp2.2\Dating.BusinessLayer.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.BusineeLayer\obj\Debug\netcoreapp2.2\Dating.BusinessLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.BusineeLayer\obj\Debug\netcoreapp2.2\Dating.BusinessLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.DataLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.Entities.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.DataLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.Entities.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.BusineeLayer\obj\Debug\netcoreapp2.2\Dating.BusinessLayer.csproj.CopyComplete
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.BusineeLayer\obj\Debug\netcoreapp2.2\Dating.BusinessLayer.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.BusinessLayer.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.BusinessLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.BusinessLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.DataLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.Entities.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.DataLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.Entities.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.BusineeLayer\obj\Debug\netcoreapp2.2\Dating.BusinessLayer.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.BusineeLayer\obj\Debug\netcoreapp2.2\Dating.BusinessLayer.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.BusineeLayer\obj\Debug\netcoreapp2.2\Dating.BusinessLayer.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.BusineeLayer\obj\Debug\netcoreapp2.2\Dating.BusinessLayer.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.BusineeLayer\obj\Debug\netcoreapp2.2\Dating.BusinessLayer.csproj.CopyComplete
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.BusineeLayer\obj\Debug\netcoreapp2.2\Dating.BusinessLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.BusineeLayer\obj\Debug\netcoreapp2.2\Dating.BusinessLayer.pdb

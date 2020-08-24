@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Dating.DataLayer">
+      <HintPath>..\Dating.DataLayer\bin\Debug\netcoreapp2.2\Dating.DataLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="Dating.Entities">
+      <HintPath>..\Dating.Entities\bin\Debug\netcoreapp2.2\Dating.Entities.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

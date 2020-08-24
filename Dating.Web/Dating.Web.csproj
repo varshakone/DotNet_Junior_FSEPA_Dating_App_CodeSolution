@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="2.2.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.4" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Reference Include="Dating.BusinessLayer">
+      <HintPath>..\Dating.BusineeLayer\bin\Debug\netcoreapp2.2\Dating.BusinessLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="Dating.DataLayer">
+      <HintPath>..\Dating.DataLayer\bin\Debug\netcoreapp2.2\Dating.DataLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="Dating.Entities">
+      <HintPath>..\Dating.Entities\bin\Debug\netcoreapp2.2\Dating.Entities.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

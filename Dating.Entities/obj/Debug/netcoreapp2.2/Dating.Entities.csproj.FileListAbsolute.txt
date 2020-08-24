@@ -1,0 +1,18 @@
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.Entities\bin\Debug\netcoreapp2.2\Dating.Entities.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.Entities\bin\Debug\netcoreapp2.2\Dating.Entities.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.Entities\bin\Debug\netcoreapp2.2\Dating.Entities.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.Entities\obj\Debug\netcoreapp2.2\Dating.Entities.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.Entities\obj\Debug\netcoreapp2.2\Dating.Entities.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.Entities\obj\Debug\netcoreapp2.2\Dating.Entities.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.Entities\obj\Debug\netcoreapp2.2\Dating.Entities.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.Entities\obj\Debug\netcoreapp2.2\Dating.Entities.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\Dating.Entities\obj\Debug\netcoreapp2.2\Dating.Entities.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.Entities\bin\Debug\netcoreapp2.2\Dating.Entities.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.Entities\bin\Debug\netcoreapp2.2\Dating.Entities.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.Entities\bin\Debug\netcoreapp2.2\Dating.Entities.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.Entities\obj\Debug\netcoreapp2.2\Dating.Entities.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.Entities\obj\Debug\netcoreapp2.2\Dating.Entities.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.Entities\obj\Debug\netcoreapp2.2\Dating.Entities.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.Entities\obj\Debug\netcoreapp2.2\Dating.Entities.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.Entities\obj\Debug\netcoreapp2.2\Dating.Entities.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\Junior FSE PA\CodeSolution\DatingApp\Dating.Entities\obj\Debug\netcoreapp2.2\Dating.Entities.pdb
